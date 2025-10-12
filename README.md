@@ -1,7 +1,18 @@
 ![welcome-header](https://github.com/user-attachments/assets/c1c53d4c-8c67-493c-8045-d0f430886376)
 
-# 💫 About Me:
-Creator of MrRetiZiXD, developer, and builder of next-gen apps 💻  <br>Working with Python, C#, C++, React, and JavaScript <br>Crafting games, applications, and web experiences ✨  <br><br>I’m passionate about creating projects that combine game development, automation, and web technologies.  <br>From Unity games to AI bots, and from React sites to custom applications,  <br>I love bringing ideas to life through clean, functional design and efficient code.
+## 👋 About Me
+
+> Building scalable and innovative software solutions ⚙️ <br>
+> Creator, developer, and builder of next-gen apps 💻 <br>
+> Working with **Python**, **C#**, **C++**, **React**, **JavaScript**, and etc. <br>
+> Developing games, applications, and web experiences ✨
+
+I’m passionate about creating projects that combine **game development**, **automation**, and **web technologies**. <br>
+From **Unity games** to **AI bots** and from **React sites** to **custom messengers**, <br>
+I love bringing ideas to life through clean, functional design and efficient code!
+
+📍 Based in Russia 🇷🇺🪆 <br>
+🌐 My website - [mrretizixd.vercel.app](https://mrretizixd.vercel.app)
 
 
 ## 🌐 Socials:
