@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋![welcome-header](https://github.com/user-attachments/assets/c1c53d4c-8c67-493c-8045-d0f430886376)
+
 
 <!--
 **MrRetiZiXD/MrRetiZiXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
