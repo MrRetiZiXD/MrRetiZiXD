@@ -11,11 +11,10 @@ I’m passionate about creating projects that combine **game development**, **au
 From **Unity games** to **AI bots** and from **React sites** to **custom messengers**, <br>
 I love bringing ideas to life through clean, functional design and efficient code!
 
-📍 Based in Russia 🇷🇺🪆 <br>
+📍 Based in Russia 🪆 <br>
 🌐 My website - [mrretizixd.vercel.app](https://mrretizixd.vercel.app)
 
-
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/sKR62CBWu9) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@MrRetiZiXD) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/MrRetiZiXD) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@MrRetiZiXD) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:matveybalanin@mail.ru) [![VK](https://img.shields.io/badge/VK-%230077FF.svg?logo=vk&logoColor=white)](https://vk.com/MrRetiZiXD) [![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?logo=telegram&logoColor=white)](https://t.me/MrRetiZiXD)
 
 # 💻 Tech Stack:
