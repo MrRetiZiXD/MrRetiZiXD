@@ -124,6 +124,22 @@
       {
         "icon": "brand:discord",
         "url": "https://discord.gg/sKR62CBWu9"
+      },
+      {
+        "icon": "brand:tiktok",
+        "url": "https://tiktok.com/@MrRetiZiXD"
+      },
+      {
+        "icon": "brand:twitch",
+        "url": "https://twitch.tv/MrRetiZiXD"
+      },
+      {
+        "icon": "brand:youtube",
+        "url": "https://youtube.com/@MrRetiZiXD"
+      },
+      {
+        "icon": "brand:vk",
+        "url": "https://vk.com/MrRetiZiXD"
       }
     ],
     "variant": "chip",
