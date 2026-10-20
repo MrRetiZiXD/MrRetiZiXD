@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "login": "MrRetiZiXD",
+  "seed": "#FF5CA8",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Hey, I'm",
+    "name": "MrRetiZiXD",
+    "subtitle": "Building apps, web experiences & useful developer tools",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "code",
+        "label": "Apps · Web · Open source"
+      },
+      {
+        "icon": "language",
+        "label": "TypeScript · Python · C#"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Independent developer"
+      },
+      {
+        "icon": "deployed_code",
+        "label": "Apps, web & Android"
+      },
+      {
+        "icon": "palette",
+        "label": "Design-minded engineering"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Languages & frameworks",
+        "items": [
+          {
+            "icon": "code",
+            "label": "TypeScript & JavaScript"
+          },
+          {
+            "icon": "terminal",
+            "label": "Python · C# · C++"
+          },
+          {
+            "icon": "deployed_code",
+            "label": "React · Next.js"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "terminal",
+            "label": "Git & GitHub"
+          },
+          {
+            "icon": "palette",
+            "label": "Figma"
+          },
+          {
+            "icon": "language",
+            "label": "GitHub Actions"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [],
+    "overrides": {},
+    "empty": "Pin your best public repositories on GitHub to feature them here.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/MrRetiZiXD"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.gg/sKR62CBWu9"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://mrretizixd.vercel.app",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "https://github.com/MrRetiZiXD?tab=repositories",
+        "style": "tonal"
+      }
+    ]
+  }
+}
