@@ -8,7 +8,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/ReCraftsLabs/TokkiYou"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tokkiyou-dark.svg"><img src="assets/project-tokkiyou-light.svg" width="49%" alt="TokkiYou"></picture></a>
+<a href="https://github.com/ReCraftsLabs/TokkiYou"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tokkiyou-dark.svg"><img src="assets/project-tokkiyou-light.svg" width="49%" alt="TokkiYou"></picture></a>&nbsp;<a href="https://github.com/ReCraftsLabs/VibeBoard"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-vibeboard-dark.svg"><img src="assets/project-vibeboard-light.svg" width="49%" alt="VibeBoard"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
