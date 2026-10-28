@@ -1,5 +1,5 @@
 {
- "key": "f2cd117d",
+ "key": "c180638a",
  "stars": 0,
  "contributions": 23,
  "repos": 2,
@@ -99,16 +99,20 @@
    {
     "c": 0,
     "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
     "today": true
    },
-   null,
    null,
    null,
    null
   ]
  ],
  "streak": {
-  "current": 2,
+  "current": 0,
   "longest": 2
  },
  "pins": [
